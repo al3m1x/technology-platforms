@@ -1,0 +1,14 @@
+C:\Users\al3m1x\source\repos\PT9\bin\Debug\net8.0\PT9.exe
+C:\Users\al3m1x\source\repos\PT9\bin\Debug\net8.0\PT9.deps.json
+C:\Users\al3m1x\source\repos\PT9\bin\Debug\net8.0\PT9.runtimeconfig.json
+C:\Users\al3m1x\source\repos\PT9\bin\Debug\net8.0\PT9.dll
+C:\Users\al3m1x\source\repos\PT9\bin\Debug\net8.0\PT9.pdb
+C:\Users\al3m1x\source\repos\PT9\obj\Debug\net8.0\PT9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al3m1x\source\repos\PT9\obj\Debug\net8.0\PT9.AssemblyInfoInputs.cache
+C:\Users\al3m1x\source\repos\PT9\obj\Debug\net8.0\PT9.AssemblyInfo.cs
+C:\Users\al3m1x\source\repos\PT9\obj\Debug\net8.0\PT9.csproj.CoreCompileInputs.cache
+C:\Users\al3m1x\source\repos\PT9\obj\Debug\net8.0\PT9.dll
+C:\Users\al3m1x\source\repos\PT9\obj\Debug\net8.0\refint\PT9.dll
+C:\Users\al3m1x\source\repos\PT9\obj\Debug\net8.0\PT9.pdb
+C:\Users\al3m1x\source\repos\PT9\obj\Debug\net8.0\PT9.genruntimeconfig.cache
+C:\Users\al3m1x\source\repos\PT9\obj\Debug\net8.0\ref\PT9.dll

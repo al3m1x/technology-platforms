@@ -1,0 +1,10 @@
+C:\Users\al3m1x\source\repos\PT11_v3 (WF)\bin\Debug\PT11_v3 (WF).exe.config
+C:\Users\al3m1x\source\repos\PT11_v3 (WF)\bin\Debug\PT11_v3 (WF).exe
+C:\Users\al3m1x\source\repos\PT11_v3 (WF)\bin\Debug\PT11_v3 (WF).pdb
+C:\Users\al3m1x\source\repos\PT11_v3 (WF)\obj\Debug\PT11_v3 (WF).csproj.AssemblyReference.cache
+C:\Users\al3m1x\source\repos\PT11_v3 (WF)\obj\Debug\PT11_v3__WF_.Form1.resources
+C:\Users\al3m1x\source\repos\PT11_v3 (WF)\obj\Debug\PT11_v3__WF_.Properties.Resources.resources
+C:\Users\al3m1x\source\repos\PT11_v3 (WF)\obj\Debug\PT11_v3 (WF).csproj.GenerateResource.cache
+C:\Users\al3m1x\source\repos\PT11_v3 (WF)\obj\Debug\PT11_v3 (WF).csproj.CoreCompileInputs.cache
+C:\Users\al3m1x\source\repos\PT11_v3 (WF)\obj\Debug\PT11_v3 (WF).exe
+C:\Users\al3m1x\source\repos\PT11_v3 (WF)\obj\Debug\PT11_v3 (WF).pdb

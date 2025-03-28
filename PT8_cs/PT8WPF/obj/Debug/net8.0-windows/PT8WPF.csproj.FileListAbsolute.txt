@@ -1,0 +1,44 @@
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\PT8WPF_MarkupCompile.cache
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\PT8WPF_MarkupCompile.lref
+C:\Users\al3m1x\source\repos\PT8WPF\bin\Debug\net8.0-windows\PT8WPF.exe
+C:\Users\al3m1x\source\repos\PT8WPF\bin\Debug\net8.0-windows\PT8WPF.deps.json
+C:\Users\al3m1x\source\repos\PT8WPF\bin\Debug\net8.0-windows\PT8WPF.runtimeconfig.json
+C:\Users\al3m1x\source\repos\PT8WPF\bin\Debug\net8.0-windows\PT8WPF.dll
+C:\Users\al3m1x\source\repos\PT8WPF\bin\Debug\net8.0-windows\PT8WPF.pdb
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.g.resources
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.AssemblyInfoInputs.cache
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.AssemblyInfo.cs
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.csproj.CoreCompileInputs.cache
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.dll
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\refint\PT8WPF.dll
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.pdb
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.genruntimeconfig.cache
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\ref\PT8WPF.dll
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\CreateElementForm.g.cs
+C:\Users\al3m1x\source\repos\PT8WPF\obj\Debug\net8.0-windows\CreateElementForm.baml
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\bin\Debug\net8.0-windows\PT8WPF.exe
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\bin\Debug\net8.0-windows\PT8WPF.deps.json
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\bin\Debug\net8.0-windows\PT8WPF.runtimeconfig.json
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\bin\Debug\net8.0-windows\PT8WPF.dll
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\bin\Debug\net8.0-windows\PT8WPF.pdb
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\CreateElementForm.g.cs
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\App.g.cs
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\PT8WPF_MarkupCompile.cache
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\PT8WPF_MarkupCompile.lref
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\CreateElementForm.baml
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\MainWindow.baml
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.g.resources
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.AssemblyInfoInputs.cache
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.AssemblyInfo.cs
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.csproj.CoreCompileInputs.cache
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.dll
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\refint\PT8WPF.dll
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.pdb
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\PT8WPF.genruntimeconfig.cache
+F:\SEMESTR 4\Platformy Technologiczne\PT8_v2.0\PT8WPF\obj\Debug\net8.0-windows\ref\PT8WPF.dll

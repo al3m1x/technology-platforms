@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SEMESTR 4\\Platformy Technologiczne\\PT8_v2.0\\PT8WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7B1C9-2590-4FE6-891A-3A744FACE0F9}|PT8WPF.csproj|f:\\semestr 4\\platformy technologiczne\\pt8_v2.0\\pt8wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7B1C9-2590-4FE6-891A-3A744FACE0F9}|PT8WPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7B1C9-2590-4FE6-891A-3A744FACE0F9}|PT8WPF.csproj|f:\\semestr 4\\platformy technologiczne\\pt8_v2.0\\pt8wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD7B1C9-2590-4FE6-891A-3A744FACE0F9}|PT8WPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7B1C9-2590-4FE6-891A-3A744FACE0F9}|PT8WPF.csproj|f:\\semestr 4\\platformy technologiczne\\pt8_v2.0\\pt8wpf\\createelementform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7B1C9-2590-4FE6-891A-3A744FACE0F9}|PT8WPF.csproj|solutionrelative:createelementform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7B1C9-2590-4FE6-891A-3A744FACE0F9}|PT8WPF.csproj|f:\\semestr 4\\platformy technologiczne\\pt8_v2.0\\pt8wpf\\createelementform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD7B1C9-2590-4FE6-891A-3A744FACE0F9}|PT8WPF.csproj|solutionrelative:createelementform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateElementForm.xaml.cs",
+              "DocumentMoniker": "F:\\SEMESTR 4\\Platformy Technologiczne\\PT8_v2.0\\PT8WPF\\CreateElementForm.xaml.cs",
+              "RelativeDocumentMoniker": "CreateElementForm.xaml.cs",
+              "ToolTip": "F:\\SEMESTR 4\\Platformy Technologiczne\\PT8_v2.0\\PT8WPF\\CreateElementForm.xaml.cs",
+              "RelativeToolTip": "CreateElementForm.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:48:38.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateElementForm.xaml",
+              "DocumentMoniker": "F:\\SEMESTR 4\\Platformy Technologiczne\\PT8_v2.0\\PT8WPF\\CreateElementForm.xaml",
+              "RelativeDocumentMoniker": "CreateElementForm.xaml",
+              "ToolTip": "F:\\SEMESTR 4\\Platformy Technologiczne\\PT8_v2.0\\PT8WPF\\CreateElementForm.xaml",
+              "RelativeToolTip": "CreateElementForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T00:48:38.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\SEMESTR 4\\Platformy Technologiczne\\PT8_v2.0\\PT8WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "F:\\SEMESTR 4\\Platformy Technologiczne\\PT8_v2.0\\PT8WPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T00:48:38.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\SEMESTR 4\\Platformy Technologiczne\\PT8_v2.0\\PT8WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "F:\\SEMESTR 4\\Platformy Technologiczne\\PT8_v2.0\\PT8WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:48:38.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

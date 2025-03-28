@@ -1,0 +1,17 @@
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\PT10.Form1.resources
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\PT10.csproj.GenerateResource.cache
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\PT10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\PT10.AssemblyInfoInputs.cache
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\PT10.AssemblyInfo.cs
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\PT10.csproj.CoreCompileInputs.cache
+C:\Users\al3m1x\source\repos\PT10\bin\Debug\net8.0-windows\PT10.exe
+C:\Users\al3m1x\source\repos\PT10\bin\Debug\net8.0-windows\PT10.deps.json
+C:\Users\al3m1x\source\repos\PT10\bin\Debug\net8.0-windows\PT10.runtimeconfig.json
+C:\Users\al3m1x\source\repos\PT10\bin\Debug\net8.0-windows\PT10.dll
+C:\Users\al3m1x\source\repos\PT10\bin\Debug\net8.0-windows\PT10.pdb
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\PT10.dll
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\refint\PT10.dll
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\PT10.pdb
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\PT10.genruntimeconfig.cache
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\ref\PT10.dll
+C:\Users\al3m1x\source\repos\PT10\obj\Debug\net8.0-windows\PT10.Form2.resources
